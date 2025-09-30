@@ -47,6 +47,8 @@ Because this library offers high stability, full features, and an actively impro
 - Easy to integrate and customize based on your needs
 - Perfect for developing bots, customer service automation, and other communication applications.
 
+---
+
 For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
 
 **Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!**
