@@ -1,15 +1,17 @@
 {
   "name": "@zieee/baileys",
   "version": "2.0.5",
-  "description": "WhatsApp API modification fork by Ziee",
+  "description": "WhatsApp API modification fork by Urz1ee/Ziee",
   "keywords": [
     "whatsapp",
     "baileys",
+    "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "wa-bot",
     "urz1ee",
-    "urz1ee-bot"
+    "urz1ee-bot",
+    "urz1ee-baileys"
   ],
   "homepage": "https://github.com/dhvvXD/mieAyamBailz",
   "repository": {
@@ -17,7 +19,7 @@
     "url": "git+https://github.com/dhvvXD/mieAyamBailz.git"
   },
   "bugs": {
-    "url": "https://github.com/urz1ee/baileys/issues"
+    "url": "https://github.com/dhvvXD/mieAyamBailz/issues"
   },
   "license": "MIT",
   "author": "Ziee",
