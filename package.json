@@ -18,9 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/dhvvXD/mieAyamBailz.git"
     },
-    "bugs": {
-      "url": "https://github.com/dhvvXD/mieAyamBailz/issues"
-     },
     "license": "MIT",
     "author": "Adhiraj Singh",
     "main": "lib/index.js",
